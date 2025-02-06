@@ -91,6 +91,6 @@ Summary
 Output
 •	A high-quality dataset with curated code examples, refined AI-generated code, benchmarks, and documentation.
 Usage
-•	For AI model training, developer learning, open-source contribution, and organizational fine-tuning.
+•	For AI model training, developer learning,  and organizational fine-tuning.
 Scope
 •	Broad technical and functional scope, with potential for future expansion and community engagement.
